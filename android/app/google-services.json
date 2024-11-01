@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "435947149746",
+    "project_id": "visitasmuseus-ee60b",
+    "storage_bucket": "visitasmuseus-ee60b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435947149746:android:a2538d93ef59e0adb1acab",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZqYVs0RkOXZppbZcNinb0KYY_IWPWsVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
