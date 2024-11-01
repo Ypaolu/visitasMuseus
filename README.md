@@ -1,4 +1,4 @@
-App para registrar visitas a museus - Flutter 3.24 and Dart 3.5
+App para registrar visitas museus - Flutter 3.24 and Dart 3.5
 
 Objetivo: O usuário pode registrar museus que já tenha visitado ou que esteja planejando visitar, podendo colocar o nome do museu, uma breve descrição e se já o visitou ou não.
 
