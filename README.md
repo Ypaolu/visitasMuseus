@@ -4,19 +4,11 @@ Objetivo: O usuário pode registrar museus que já tenha visitado ou que esteja 
 
 Widgets: Text, Icon, ListView, TextField, GestureDetector, StreamBuilder, Future
 
-Stateful Widget: Para adicionar e editar registros de emoções
-
-Stateless Widget: Para exibir o resumo diário de emoções
-
-Scaffold: Estrutura básica com AppBar e um FloatingActionButton para adicionar registros
-
 StreamBuilder: Para pegar as informações do Banco de Dados
 
 ListView: Para exibir a lista de museus registrados
 
 Layout: Uso de colunas para separar os museus
-
-Estilização: Customizar a exibição de ícones das emoções
 
 Botões: Para navegar entre os registros e adicionar novos
 
